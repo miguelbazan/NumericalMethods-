@@ -1,9 +1,5 @@
 /*
- Birge-Vieta Method
- Metodos numericos
- Alejandra Gonzalez
- 
- 
+
  Miguel Bazán A. A01281010
  Yarely Mercado G. A01280668
  
